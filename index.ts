@@ -1,7 +1,7 @@
 import { promises as fs } from 'fs';
 
 const template = 'template.md';
-const destFile = 'README.md';
+const destFile = process.env.DEST_FILE ?? 'preview.md';
 
 function getSchoolYear() {
   const schoolYear = new Date().getFullYear() - 2008;
@@ -18,7 +18,7 @@ function replaceSections(sections: { [_: string]: string }, input: string): stri
 async function run() {
   const sections = {
     YEAR: getSchoolYear(),
-    REPOS: 'Coming soon...',
+    REPOS: 'Coming soon to a page near you...',
   };
 
   // Keeping everything in memory should be fine

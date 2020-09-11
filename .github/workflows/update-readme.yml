@@ -21,6 +21,8 @@ jobs:
       
       - run: npm ci
       - run: npm start
+        env:
+          DEST_FILE: README.md
       
       - uses: EndBug/add-and-commit@v4
         with:
