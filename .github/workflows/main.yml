@@ -1,0 +1,24 @@
+name: Update README.md
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+      
+      - run: npm ci
+      - run: npm start
+      
+      - uses: EndBug/add-and-commit@v4
+        with:
+          add: README.md
+          message: Auto update README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
