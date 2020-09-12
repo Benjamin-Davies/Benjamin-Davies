@@ -4,6 +4,7 @@ import github, { User } from './github';
 const template = 'template.md';
 const destFile = process.env.DEST_FILE ?? 'preview.md';
 const username = 'Benjamin-Davies';
+const groups = ['stemwana-youthdev', 'DefinitelyTyped'];
 
 async function getBio(user: User): Promise<string> {
   const userData = await user.data();
