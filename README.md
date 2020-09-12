@@ -4,33 +4,33 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 
 ## Here's what I've been working on ✏️
 
-Benjamin-Davies/Benjamin-Davies
-Benjamin-Davies/Benjamin-Davies.github.io
-Benjamin-Davies/atari-breakout
-Benjamin-Davies/DBListDemo
-Benjamin-Davies/OuterZone
-Benjamin-Davies/CSharp-201COS-2020
-Benjamin-Davies/evolocity-js
-Benjamin-Davies/graphiti
-Benjamin-Davies/navit
-Benjamin-Davies/dotfiles
-Benjamin-Davies/math
-Benjamin-Davies/declare-audio
-Benjamin-Davies/RCube
-Benjamin-Davies/2048
-Benjamin-Davies/open-lyrics-cli
-Benjamin-Davies/maquo
-Benjamin-Davies/SimpleGame2_10ICT
-Benjamin-Davies/graphing-calculator
-Benjamin-Davies/js-games
-Benjamin-Davies/alt-temperament
-Benjamin-Davies/netfuse
-Benjamin-Davies/countdown
-Benjamin-Davies/ttyscrd
-Benjamin-Davies/PixelClock
-Benjamin-Davies/rimd-demo
-Benjamin-Davies/evolocity-pit
-Benjamin-Davies/evolocity-micro
-Benjamin-Davies/Pushly
-Benjamin-Davies/hex-grid
-Benjamin-Davies/void-racer
+* Benjamin-Davies 30
+* Benjamin-Davies.github.io 30
+* atari-breakout 30
+* DBListDemo 4
+* OuterZone 30
+* CSharp-201COS-2020 30
+* evolocity-js 30
+* graphiti 30
+* navit 30
+* dotfiles 30
+* math 30
+* declare-audio 30
+* RCube 20
+* 2048 27
+* open-lyrics-cli 4
+* maquo 30
+* SimpleGame2_10ICT 6
+* graphing-calculator 23
+* js-games 30
+* alt-temperament 14
+* netfuse 23
+* countdown 14
+* ttyscrd 1
+* PixelClock 8
+* rimd-demo 2
+* evolocity-pit 30
+* evolocity-micro 14
+* hex-grid 20
+* void-racer 2
+* node-sqlite3-promise 4
