@@ -10,13 +10,17 @@ function constructUrl(urlTemplate: string, params: {}) {
   // Fill in the {key} things
   for (let i = 0; i < props.length; i++) {
     const [key, value] = props[i];
-    const newUrl = url.replace(`{${key}}`, value);
+    const newUrl = url.replace(`{${key}}`, value).replace(`{/${key}}`, `/${value}`);
     if (newUrl !== url) {
       url = newUrl;
       props.splice(i, 1);
       i--;
     }
   }
+
+  // Clean out the rest of the {key} things
+  // Must be lazy to only consume the text inside {}
+  url = url.replace(/{.*?}/g, '');
 
   // And then the query params
   if (props.length > 0) {
