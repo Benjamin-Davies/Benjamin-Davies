@@ -23,6 +23,7 @@ jobs:
       - run: npm start
         env:
           DEST_FILE: README.md
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - uses: EndBug/add-and-commit@v4
         with:

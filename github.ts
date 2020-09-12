@@ -49,11 +49,15 @@ function constructUrl(urlTemplate: string, params: {}) {
 
 async function fetchData<T>(urlTemplate: string, params = {}): Promise<T> {
   const url = constructUrl(urlTemplate, params);
-  const res = await fetch(url, {
-    headers: {
-      accept: 'application/vnd.github.v3+json',
-    },
-  });
+
+  const headers: any = {
+    accept: 'application/vnd.github.v3+json',
+  };
+  if (process.env.GITHUB_TOKEN) {
+    headers.Authorization = `token ${process.env.GITHUB_TOKEN}`;
+  }
+
+  const res = await fetch(url, { headers });
   if (!res.ok) {
     throw new Error(`${url} returned ${res.status}:${res.statusText}`);
   }
