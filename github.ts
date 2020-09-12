@@ -23,12 +23,15 @@ export interface RepoData {
 
 function constructUrl(urlTemplate: string, params: {}) {
   let url = urlTemplate;
+  const props = Object.entries(params).map(([k, v]) => [
+    k,
+    encodeURIComponent(v.toString()),
+  ]);
 
   // Fill in the {key} things
-  const props = Object.entries(params);
   for (let i = 0; i < props.length; i++) {
     const [key, value] = props[i];
-    const newUrl = url.replace(`{${key}}`, encodeURIComponent(value.toString()));
+    const newUrl = url.replace(`{${key}}`, value);
     if (newUrl !== url) {
       url = newUrl;
       props.splice(i, 1);
@@ -36,7 +39,10 @@ function constructUrl(urlTemplate: string, params: {}) {
     }
   }
 
-  // TODO: add query params
+  // And then the query params
+  if (props.length > 0) {
+    url += `?${props.map(([k, v]) => `${k}=${v}`).join('&')}`;
+  }
 
   return url;
 }
