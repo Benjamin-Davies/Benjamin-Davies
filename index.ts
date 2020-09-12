@@ -11,8 +11,9 @@ async function getBio(user: User): Promise<string> {
   return userData.bio.replace(/\s\s/g, ' &nbsp;');
 }
 
-async function getRepos(_user: User): Promise<string> {
-  return 'Coming soon...';
+async function getRepos(user: User): Promise<string> {
+  const repos = await user.repos({ sort: 'updated' }).data();
+  return repos.map((repo) => repo.full_name).join('\n');
 }
 
 function replaceSections(sections: { [_: string]: string }, input: string): string {
