@@ -1,7 +1,7 @@
 # Hi there 👋
 
-My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝&nbsp;&nbsp;who enjoys music 🎸🎷&nbsp;&nbsp;and scouting ⚜️&nbsp;. I am currently a year-12 who goes to Mount Maunganui College.
+My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &nbsp;who enjoys music 🎸🎷 &nbsp;and scouting ⚜️ . I am currently a year-12 who goes to MMC.
 
 Here's what I've been working on:
 
-Coming soon to a page near you...
+Coming soon...
