@@ -1,11 +1,18 @@
 import { promises as fs } from 'fs';
+import github, { User } from './github';
 
 const template = 'template.md';
 const destFile = process.env.DEST_FILE ?? 'preview.md';
+const username = 'Benjamin-Davies';
 
-function getSchoolYear() {
-  const schoolYear = new Date().getFullYear() - 2008;
-  return `${schoolYear}`;
+async function getBio(user: User): Promise<string> {
+  const userData = await user.data();
+  // Replace double spaces with nbsp
+  return userData.bio.replace(/\s\s/g, ' &nbsp;');
+}
+
+async function getRepos(_user: User): Promise<string> {
+  return 'Coming soon...';
 }
 
 function replaceSections(sections: { [_: string]: string }, input: string): string {
@@ -16,9 +23,10 @@ function replaceSections(sections: { [_: string]: string }, input: string): stri
 }
 
 async function run() {
+  const user = github.user({ user: username });
   const sections = {
-    YEAR: getSchoolYear(),
-    REPOS: 'Coming soon to a page near you...',
+    BIO: await getBio(user),
+    REPOS: await getRepos(user),
   };
 
   // Keeping everything in memory should be fine
