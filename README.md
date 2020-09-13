@@ -4,10 +4,10 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 
 ## Here's what I've been working on ✏️
 
+* Benjamin-Davies 30
 * dotfiles 30
 * evolocity-js 30
 * math 30
-* Benjamin-Davies 30
 * Benjamin-Davies.github.io 30
 * atari-breakout 30
 * DBListDemo 4
