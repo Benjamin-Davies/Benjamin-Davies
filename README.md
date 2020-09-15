@@ -23,7 +23,7 @@ My C# Windows Forms game for Computer Science
 
 *50+ commits in the last month*
 
-The [YOUTHDEV CHALLENGE](https://stemwana.nz/2020-stem-initiative/#page-484:~:text=YOUTHDEV%20CHALLENGE) is project where youth work with professionals to develop the [STEM Explorer Trail](https://stemexplorertrail.nz/).
+The [YouthDev Challenge](https://stemwana.nz/2020-stem-initiative/#page-484:~:text=YOUTHDEV%20CHALLENGE) is project where youth work with professionals to develop the [STEM Explorer Trail](https://stemexplorertrail.nz/).
 
 
 ### 🧑‍🎓 [DBListDemo](https://github.com/Benjamin-Davies/DBListDemo)
