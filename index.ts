@@ -33,7 +33,7 @@ async function getRepos(user: User): Promise<string> {
   }
 
   repos = repos.filter((repo) => repo.commitCount >= 1);
-  repos.sort((a, b) => a.commitCount - b.commitCount);
+  repos.sort((a, b) => b.commitCount - a.commitCount);
 
   return repos
     .map(({ data, commitCount }) => {
@@ -45,7 +45,13 @@ async function getRepos(user: User): Promise<string> {
       } else {
         commitCountText = `${commitCount} commits`;
       }
-      return `* **${data.name}** (${commitCountText} in the last month)`;
+      return `
+### [${data.owner.login === username ? data.name : data.full_name}](${data.homepage || data.html_url})
+
+*${commitCountText} in the last month*
+
+${data.description}
+`;
     })
     .join('\n');
 }

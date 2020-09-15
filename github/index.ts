@@ -2,6 +2,7 @@ import { nextTick } from 'process';
 import { Api, CollectionApi } from './core';
 
 export interface UserData {
+  type: 'User';
   login: string;
   bio: string;
 }
@@ -10,7 +11,10 @@ export interface UserParams {
   user: string;
 }
 
-export interface OrgData {}
+export interface OrgData {
+  type: 'Organization';
+  login: string;
+}
 
 export interface OrgParams {
   org: string;
@@ -19,7 +23,10 @@ export interface OrgParams {
 export interface RepoData {
   name: string;
   full_name: string;
-  owner: UserData;
+  homepage: string | null;
+  description: string;
+  owner: UserData | OrgData;
+  html_url: string;
 }
 
 export interface ReposParams {
@@ -74,7 +81,12 @@ export class Org extends Api<OrgData, GitHub, OrgParams> {
   }
 }
 
-export class Repos extends CollectionApi<RepoData, User | Org, ReposParams, Repo> {
+export class Repos extends CollectionApi<
+  RepoData,
+  User | Org,
+  ReposParams,
+  Repo
+> {
   type = 'repos';
 
   protected createItem(data: RepoData): Repo {
