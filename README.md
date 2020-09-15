@@ -4,19 +4,12 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 
 ## Here's what I've been working on ✏️
 
-* Benjamin-Davies 43
-* DBListDemo 9
-* dotfiles 3
-* evolocity-js 2
-* math 1
-* Benjamin-Davies.github.io 2
-* atari-breakout 2
-* OuterZone 50
-* CSharp-201COS-2020 0
-* graphiti 0
-* Explorer-Trail-2020 50
-* DefinitelyTyped 0
-* tsd 0
-* dt-mergebot 0
-* definitelytyped.github.io 0
-* dts-critic 0
+* **math** (1 commit in the last month)
+* **evolocity-js** (2 commits in the last month)
+* **Benjamin-Davies.github.io** (2 commits in the last month)
+* **atari-breakout** (2 commits in the last month)
+* **dotfiles** (3 commits in the last month)
+* **DBListDemo** (9 commits in the last month)
+* **Benjamin-Davies** (45 commits in the last month)
+* **OuterZone** (50+ commits in the last month)
+* **Explorer-Trail-2020** (50+ commits in the last month)
