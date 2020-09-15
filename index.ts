@@ -77,7 +77,7 @@ async function getRepos(user: User): Promise<string> {
 ${data.description ?? ''}
 `;
     })
-    .join('\n');
+    .join('\n') || 'I haven\'t been up to much this month. 😞';
 }
 
 function replaceSections(sections: { [_: string]: string }, input: string): string {
