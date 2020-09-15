@@ -5,6 +5,13 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 ## Here's what I've been working on ✏️
 
 
+### 👥&nbsp; [stemwana-youthdev/Explorer-Trail-2020](https://github.com/stemwana-youthdev/Explorer-Trail-2020)
+
+*50+ commits in the last month*
+
+The [YouthDev Challenge](https://stemwana.nz/2020-stem-initiative/#page-484:~:text=YOUTHDEV%20CHALLENGE) is project where youth work with professionals to develop the [STEM Explorer Trail](https://stemexplorertrail.nz/).
+
+
 ### 😃&nbsp; [Benjamin-Davies](https://github.com/Benjamin-Davies/Benjamin-Davies)
 
 *50+ commits in the last month*
@@ -17,13 +24,6 @@ The repo for my lovely profile page
 *50+ commits in the last month*
 
 My C# Windows Forms game for Computer Science
-
-
-### 👥&nbsp; [stemwana-youthdev/Explorer-Trail-2020](https://github.com/stemwana-youthdev/Explorer-Trail-2020)
-
-*50+ commits in the last month*
-
-The [YouthDev Challenge](https://stemwana.nz/2020-stem-initiative/#page-484:~:text=YOUTHDEV%20CHALLENGE) is project where youth work with professionals to develop the [STEM Explorer Trail](https://stemexplorertrail.nz/).
 
 
 ### 🧑‍🎓&nbsp; [DBListDemo](https://github.com/Benjamin-Davies/DBListDemo)
