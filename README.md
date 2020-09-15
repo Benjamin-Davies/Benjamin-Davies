@@ -4,12 +4,66 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 
 ## Here's what I've been working on ✏️
 
-* **math** (1 commit in the last month)
-* **evolocity-js** (2 commits in the last month)
-* **Benjamin-Davies.github.io** (2 commits in the last month)
-* **atari-breakout** (2 commits in the last month)
-* **dotfiles** (3 commits in the last month)
-* **DBListDemo** (9 commits in the last month)
-* **Benjamin-Davies** (45 commits in the last month)
-* **OuterZone** (50+ commits in the last month)
-* **Explorer-Trail-2020** (50+ commits in the last month)
+
+### [OuterZone](https://github.com/Benjamin-Davies/OuterZone)
+
+*50+ commits in the last month*
+
+null
+
+
+### [stemwana-youthdev/Explorer-Trail-2020](https://github.com/stemwana-youthdev/Explorer-Trail-2020)
+
+*50+ commits in the last month*
+
+null
+
+
+### [Benjamin-Davies](https://github.com/Benjamin-Davies/Benjamin-Davies)
+
+*49 commits in the last month*
+
+null
+
+
+### [DBListDemo](https://github.com/Benjamin-Davies/DBListDemo)
+
+*9 commits in the last month*
+
+null
+
+
+### [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
+
+*3 commits in the last month*
+
+Config files for when I use Linux
+
+
+### [evolocity-js](https://github.com/Benjamin-Davies/evolocity-js)
+
+*2 commits in the last month*
+
+Raspberry Pi code for Tau-morrow
+
+
+### [Benjamin-Davies.github.io](https://Benjamin-Davies.github.io/)
+
+*2 commits in the last month*
+
+My website
+
+
+### [atari-breakout](https://github.com/Benjamin-Davies/atari-breakout)
+
+*2 commits in the last month*
+
+An Atari Breakout game written in typescript
+
+
+### [math](https://benjamin-davies.github.io/math/)
+
+*1 commit in the last month*
+
+Some small projects that are based on maths concepts
+
