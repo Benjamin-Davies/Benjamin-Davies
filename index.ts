@@ -1,11 +1,12 @@
 import { promises as fs } from 'fs';
-import github, { User } from './github';
+import github, { RepoData, User } from './github';
 import { concatAsyncIterables } from './util';
 
 const template = 'template.md';
 const destFile = process.env.DEST_FILE ?? 'preview.md';
 const username = 'Benjamin-Davies';
 const groups = ['stemwana-youthdev', 'DefinitelyTyped'];
+const maxCommits = 50;
 
 async function getBio(user: User): Promise<string> {
   const userData = await user.data();
@@ -18,19 +19,35 @@ async function getRepos(user: User): Promise<string> {
   const groupRepos = groups.map((org) =>
     github.org({ org }).repos({ sort: 'updated', per_page: 5 })
   );
-  const res: string[] = [];
+  let repos: { data: RepoData; commitCount: number }[] = [];
   for await (const repo of concatAsyncIterables(userRepos, ...groupRepos)) {
     const data = await repo.data();
 
     const since = new Date();
     since.setMonth(since.getMonth() - 1);
     const commitCount = await repo
-      .commits({ author: username, since, per_page: 50 })
+      .commits({ author: username, since, per_page: maxCommits })
       .length();
 
-    res.push(`* ${data.name} ${commitCount}`);
+    repos.push({ data, commitCount });
   }
-  return res.join('\n');
+
+  repos = repos.filter((repo) => repo.commitCount >= 1);
+  repos.sort((a, b) => a.commitCount - b.commitCount);
+
+  return repos
+    .map(({ data, commitCount }) => {
+      let commitCountText: string;
+      if (commitCount === 1) {
+        commitCountText = '1 commit';
+      } else if (commitCount === maxCommits) {
+        commitCountText = `${commitCount}+ commits`;
+      } else {
+        commitCountText = `${commitCount} commits`;
+      }
+      return `* **${data.name}** (${commitCountText} in the last month)`;
+    })
+    .join('\n');
 }
 
 function replaceSections(sections: { [_: string]: string }, input: string): string {
