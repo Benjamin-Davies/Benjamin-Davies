@@ -54,7 +54,7 @@ async function getRepos(user: User): Promise<string> {
 
       let emoji = '😃';
       if (!ownRepo) {
-        emoji = '👥';
+        emoji = '🤵';
       }
       if (data.fork) {
         emoji = '🍴';
