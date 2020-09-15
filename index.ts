@@ -1,5 +1,6 @@
 import { promises as fs } from 'fs';
 import github, { User } from './github';
+import { concatAsyncIterables } from './util';
 
 const template = 'template.md';
 const destFile = process.env.DEST_FILE ?? 'preview.md';
@@ -13,9 +14,10 @@ async function getBio(user: User): Promise<string> {
 }
 
 async function getRepos(user: User): Promise<string> {
-  const repos = user.repos({ sort: 'updated' });
+  const userRepos = user.repos({ sort: 'updated' });
+  const groupRepos = groups.map((org) => github.org({ org }).repos({ per_page: 5 }));
   const res: string[] = [];
-  for await (const repo of repos) {
+  for await (const repo of concatAsyncIterables(userRepos, ...groupRepos)) {
     const data = await repo.data();
     const commitCount = await repo.commits().length();
     res.push(`* ${data.name} ${commitCount}`);
