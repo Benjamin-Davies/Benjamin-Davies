@@ -31,6 +31,7 @@ function constructUrl(urlTemplate: string, params: {}) {
 }
 
 export async function fetchData<T>(urlTemplate: string, params = {}): Promise<T> {
+  console.log(`Fetching ${urlTemplate} ${JSON.stringify(params)}`);
   const url = constructUrl(urlTemplate, params);
 
   const headers: any = {
