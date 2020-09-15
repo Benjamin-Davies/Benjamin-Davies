@@ -48,6 +48,10 @@ async function getRepos(user: User): Promise<string> {
 
       const ownRepo = data.owner.login === username;
 
+      if (data.owner.login === 'stemwana-youthdev') {
+        data.description = 'The (YOUTHDEV CHALLENGE)[https://stemwana.nz/2020-stem-initiative/#page-484:~:text=YOUTHDEV%20CHALLENGE] is project where youth work with professionals to develop the (STEM Explorer Trail)[https://stemexplorertrail.nz/].';
+      }
+
       let emoji = '😃';
       if (!ownRepo) {
         emoji = '👥';
