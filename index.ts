@@ -20,7 +20,7 @@ async function getRepos(user: User): Promise<string> {
     github.org({ org }).repos({ sort: 'updated', per_page: 5 })
   );
   let repos: { data: RepoData; commitCount: number }[] = [];
-  for await (const repo of concatAsyncIterables(userRepos, ...groupRepos)) {
+  for await (const repo of concatAsyncIterables(...groupRepos, userRepos)) {
     const data = await repo.data();
 
     const since = new Date();
