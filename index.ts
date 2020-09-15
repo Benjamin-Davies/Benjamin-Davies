@@ -70,7 +70,7 @@ async function getRepos(user: User): Promise<string> {
       }
 
       return `
-### ${emoji} [${ownRepo ? data.name : data.full_name}](${data.homepage || data.html_url})
+### ${emoji}&nbsp; [${ownRepo ? data.name : data.full_name}](${data.homepage || data.html_url})
 
 *${commitCountText} in the last month*
 
