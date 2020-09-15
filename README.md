@@ -5,63 +5,63 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 ## Here's what I've been working on ✏️
 
 
-### [OuterZone](https://github.com/Benjamin-Davies/OuterZone)
+### 😃 [Benjamin-Davies](https://github.com/Benjamin-Davies/Benjamin-Davies)
 
 *50+ commits in the last month*
 
-null
+The repo for my lovely profile page
 
 
-### [stemwana-youthdev/Explorer-Trail-2020](https://github.com/stemwana-youthdev/Explorer-Trail-2020)
+### 🧑‍🎓 [OuterZone](https://github.com/Benjamin-Davies/OuterZone)
 
 *50+ commits in the last month*
 
-null
+My C# Windows Forms game for Computer Science
 
 
-### [Benjamin-Davies](https://github.com/Benjamin-Davies/Benjamin-Davies)
+### 👥 [stemwana-youthdev/Explorer-Trail-2020](https://github.com/stemwana-youthdev/Explorer-Trail-2020)
 
-*49 commits in the last month*
-
-null
+*50+ commits in the last month*
 
 
-### [DBListDemo](https://github.com/Benjamin-Davies/DBListDemo)
+
+
+### 🧑‍🎓 [DBListDemo](https://github.com/Benjamin-Davies/DBListDemo)
 
 *9 commits in the last month*
 
-null
+A demonstration of how to set up a C# API with our school's PHP/MySql system.
 
 
-### [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
+### 🐧 [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
 
 *3 commits in the last month*
 
 Config files for when I use Linux
 
 
-### [evolocity-js](https://github.com/Benjamin-Davies/evolocity-js)
+### 🚗 [evolocity-js](https://github.com/Benjamin-Davies/evolocity-js)
 
 *2 commits in the last month*
 
 Raspberry Pi code for Tau-morrow
 
 
-### [Benjamin-Davies.github.io](https://Benjamin-Davies.github.io/)
+### 😃 [Benjamin-Davies.github.io](https://Benjamin-Davies.github.io/)
 
 *2 commits in the last month*
 
 My website
 
 
-### [atari-breakout](https://github.com/Benjamin-Davies/atari-breakout)
+### 😃 [atari-breakout](https://github.com/Benjamin-Davies/atari-breakout)
 
 *2 commits in the last month*
 
 An Atari Breakout game written in typescript
 
 
-### [math](https://benjamin-davies.github.io/math/)
+### 😃 [math](https://benjamin-davies.github.io/math/)
 
 *1 commit in the last month*
 
