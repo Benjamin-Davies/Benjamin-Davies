@@ -34,6 +34,12 @@ export interface CommitData {
   commiter: UserData;
 }
 
+export interface CommitParams {
+  author?: string;
+  since?: Date;
+  per_page?: number;
+}
+
 export class GitHub extends Api<{}, null, {}> {
   constructor() {
     super(null, {});
@@ -81,8 +87,8 @@ export class Repos extends CollectionApi<RepoData, User | Org, ReposParams, Repo
 export class Repo extends Api<RepoData, User | Org, {}> {
   type = 'repo';
 
-  commits() {
-    return new Commits(this, {});
+  commits(params: CommitParams) {
+    return new Commits(this, params);
   }
 }
 

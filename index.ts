@@ -14,12 +14,20 @@ async function getBio(user: User): Promise<string> {
 }
 
 async function getRepos(user: User): Promise<string> {
-  const userRepos = user.repos({ sort: 'updated' });
-  const groupRepos = groups.map((org) => github.org({ org }).repos({ per_page: 5 }));
+  const userRepos = user.repos({ sort: 'updated', per_page: 10 });
+  const groupRepos = groups.map((org) =>
+    github.org({ org }).repos({ sort: 'updated', per_page: 5 })
+  );
   const res: string[] = [];
   for await (const repo of concatAsyncIterables(userRepos, ...groupRepos)) {
     const data = await repo.data();
-    const commitCount = await repo.commits().length();
+
+    const since = new Date();
+    since.setMonth(since.getMonth() - 1);
+    const commitCount = await repo
+      .commits({ author: username, since, per_page: 50 })
+      .length();
+
     res.push(`* ${data.name} ${commitCount}`);
   }
   return res.join('\n');

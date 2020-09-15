@@ -2,10 +2,15 @@ import fetch from 'node-fetch';
 
 function constructUrl(urlTemplate: string, params: {}) {
   let url = urlTemplate;
-  const props = Object.entries(params).map(([k, v]) => [
-    k,
-    encodeURIComponent(v.toString()),
-  ]);
+  const props = Object.entries(params).map(([key, value]) => {
+    let formattedValue: string;
+    if (value instanceof Date) {
+      formattedValue = value.toISOString();
+    } else {
+      formattedValue = encodeURIComponent(value.toString());
+    }
+    return [key, formattedValue];
+  });
 
   // Fill in the {key} things
   for (let i = 0; i < props.length; i++) {
