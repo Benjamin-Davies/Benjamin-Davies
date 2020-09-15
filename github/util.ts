@@ -40,7 +40,7 @@ export async function fetchData<T>(urlTemplate: string, params = {}): Promise<T>
   const url = constructUrl(urlTemplate, params);
 
   const headers: any = {
-    accept: 'application/vnd.github.v3+json',
+    accept: 'application/vnd.github.mercy-preview+json',
   };
   if (process.env.GITHUB_TOKEN) {
     headers.Authorization = `token ${process.env.GITHUB_TOKEN}`;

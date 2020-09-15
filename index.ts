@@ -45,12 +45,32 @@ async function getRepos(user: User): Promise<string> {
       } else {
         commitCountText = `${commitCount} commits`;
       }
+
+      const ownRepo = data.owner.login === username;
+
+      let emoji = '😃';
+      if (!ownRepo) {
+        emoji = '👥';
+      }
+      if (data.fork) {
+        emoji = '🍴';
+      }
+      if (data.topics.includes('school-project')) {
+        emoji = '🧑‍🎓';
+      }
+      if (data.topics.includes('linux')) {
+        emoji = '🐧';
+      }
+      if (data.topics.includes('car')) {
+        emoji = '🚗';
+      }
+
       return `
-### [${data.owner.login === username ? data.name : data.full_name}](${data.homepage || data.html_url})
+### ${emoji} [${ownRepo ? data.name : data.full_name}](${data.homepage || data.html_url})
 
 *${commitCountText} in the last month*
 
-${data.description}
+${data.description ?? ''}
 `;
     })
     .join('\n');

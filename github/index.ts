@@ -27,6 +27,9 @@ export interface RepoData {
   description: string;
   owner: UserData | OrgData;
   html_url: string;
+  fork: boolean;
+  // Requires special Accept header
+  topics: string[];
 }
 
 export interface ReposParams {
