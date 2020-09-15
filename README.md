@@ -5,12 +5,12 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 ## Here's what I've been working on ✏️
 
 * Benjamin-Davies 30
+* DBListDemo 9
 * dotfiles 30
 * evolocity-js 30
 * math 30
 * Benjamin-Davies.github.io 30
 * atari-breakout 30
-* DBListDemo 4
 * OuterZone 30
 * CSharp-201COS-2020 30
 * graphiti 30
@@ -24,7 +24,6 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 * graphing-calculator 23
 * js-games 30
 * alt-temperament 14
-* netfuse 23
 * countdown 14
 * ttyscrd 1
 * PixelClock 8
@@ -33,4 +32,11 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 * evolocity-micro 14
 * hex-grid 20
 * void-racer 2
-* node-sqlite3-promise 4
+* DodgeGame 30
+* tree-sitter 30
+* Explorer-Trail-2020 30
+* DefinitelyTyped 30
+* tsd 30
+* typescript-directory 17
+* NugetAutomation 30
+* grunt-tsd 26
