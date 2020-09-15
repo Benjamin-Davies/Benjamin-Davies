@@ -9,14 +9,14 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 
 *50+ commits in the last month*
 
-
+The repo for my lovely profile page
 
 
 ### 🧑‍🎓 [OuterZone](https://github.com/Benjamin-Davies/OuterZone)
 
 *50+ commits in the last month*
 
-
+My C# Windows Forms game for Computer Science
 
 
 ### 👥 [stemwana-youthdev/Explorer-Trail-2020](https://github.com/stemwana-youthdev/Explorer-Trail-2020)
@@ -30,7 +30,7 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 
 *9 commits in the last month*
 
-
+A demonstration of how to set up a C# API with our school's PHP/MySql system.
 
 
 ### 🐧 [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
