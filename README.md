@@ -5,7 +5,7 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 ## Here's what I've been working on ✏️
 
 
-### 👥&nbsp; [stemwana-youthdev/Explorer-Trail-2020](https://github.com/stemwana-youthdev/Explorer-Trail-2020)
+### 🤵&nbsp; [stemwana-youthdev/Explorer-Trail-2020](https://github.com/stemwana-youthdev/Explorer-Trail-2020)
 
 *50+ commits in the last month*
 
