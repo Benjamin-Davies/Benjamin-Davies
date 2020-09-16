@@ -60,7 +60,7 @@ async function getRepos(user: User): Promise<string> {
         emoji = '🍴';
       }
       if (data.topics.includes('school-project')) {
-        emoji = '🧑‍🎓';
+        emoji = '🎓';
       }
       if (data.topics.includes('linux')) {
         emoji = '🐧';
