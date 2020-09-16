@@ -19,14 +19,14 @@ The [YouthDev Challenge](https://stemwana.nz/2020-stem-initiative/#page-484:~:te
 The repo for my lovely profile page
 
 
-### 🧑‍🎓&nbsp; [OuterZone](https://github.com/Benjamin-Davies/OuterZone)
+### 🎓&nbsp; [OuterZone](https://github.com/Benjamin-Davies/OuterZone)
 
 *50+ commits in the last month*
 
 My C# Windows Forms game for Computer Science
 
 
-### 🧑‍🎓&nbsp; [DBListDemo](https://github.com/Benjamin-Davies/DBListDemo)
+### 🎓&nbsp; [DBListDemo](https://github.com/Benjamin-Davies/DBListDemo)
 
 *9 commits in the last month*
 
