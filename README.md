@@ -21,7 +21,7 @@ The repo for my lovely profile page
 
 ### 🎓&nbsp; [OuterZone](https://github.com/Benjamin-Davies/OuterZone)
 
-*48 commits in the last month*
+*43 commits in the last month*
 
 My C# Windows Forms game for Computer Science
 
