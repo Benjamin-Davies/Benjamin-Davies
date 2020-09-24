@@ -33,6 +33,13 @@ My C# Windows Forms game for Computer Science
 A demonstration of how to set up a C# API with our school's PHP/MySql system.
 
 
+### 😃&nbsp; [math](https://benjamin-davies.github.io/math/)
+
+*4 commits in the last month*
+
+Some small projects that are based on maths concepts
+
+
 ### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
 
 *3 commits in the last month*
@@ -59,11 +66,4 @@ My website
 *2 commits in the last month*
 
 An Atari Breakout game written in typescript
-
-
-### 😃&nbsp; [math](https://benjamin-davies.github.io/math/)
-
-*1 commit in the last month*
-
-Some small projects that are based on maths concepts
 
