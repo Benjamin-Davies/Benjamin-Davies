@@ -47,13 +47,6 @@ Some small projects that are based on maths concepts
 Config files for when I use Linux
 
 
-### 🚗&nbsp; [evolocity-js](https://github.com/Benjamin-Davies/evolocity-js)
-
-*2 commits in the last month*
-
-Raspberry Pi code for Tau-morrow
-
-
 ### 😃&nbsp; [Benjamin-Davies.github.io](https://Benjamin-Davies.github.io/)
 
 *2 commits in the last month*
@@ -66,4 +59,11 @@ My website
 *2 commits in the last month*
 
 An Atari Breakout game written in typescript
+
+
+### 🚗&nbsp; [evolocity-js](https://github.com/Benjamin-Davies/evolocity-js)
+
+*1 commit in the last month*
+
+Raspberry Pi code for Tau-morrow
 
