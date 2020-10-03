@@ -19,18 +19,18 @@ The [YouthDev Challenge](https://stemwana.nz/2020-stem-initiative/#page-484:~:te
 The repo for my lovely profile page
 
 
-### 🎓&nbsp; [OuterZone](https://github.com/Benjamin-Davies/OuterZone)
-
-*43 commits in the last month*
-
-My C# Windows Forms game for Computer Science
-
-
 ### 🎓&nbsp; [DBListDemo](https://github.com/Benjamin-Davies/DBListDemo)
 
 *9 commits in the last month*
 
 A demonstration of how to set up a C# API with our school's PHP/MySql system.
+
+
+### 🎓&nbsp; [OuterZone](https://github.com/Benjamin-Davies/OuterZone)
+
+*8 commits in the last month*
+
+My C# Windows Forms game for Computer Science
 
 
 ### 😃&nbsp; [math](https://benjamin-davies.github.io/math/)
