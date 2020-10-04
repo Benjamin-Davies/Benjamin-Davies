@@ -28,7 +28,7 @@ A demonstration of how to set up a C# API with our school's PHP/MySql system.
 
 ### 🎓&nbsp; [OuterZone](https://github.com/Benjamin-Davies/OuterZone)
 
-*8 commits in the last month*
+*5 commits in the last month*
 
 My C# Windows Forms game for Computer Science
 
