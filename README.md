@@ -21,16 +21,9 @@ The repo for my lovely profile page
 
 ### 🎓&nbsp; [DBListDemo](https://github.com/Benjamin-Davies/DBListDemo)
 
-*9 commits in the last month*
-
-A demonstration of how to set up a C# API with our school's PHP/MySql system.
-
-
-### 🎓&nbsp; [OuterZone](https://github.com/Benjamin-Davies/OuterZone)
-
 *5 commits in the last month*
 
-My C# Windows Forms game for Computer Science
+A demonstration of how to set up a C# API with our school's PHP/MySql system.
 
 
 ### 😃&nbsp; [math](https://benjamin-davies.github.io/math/)
