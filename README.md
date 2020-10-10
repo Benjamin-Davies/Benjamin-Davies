@@ -47,16 +47,16 @@ Config files for when I use Linux
 My website
 
 
-### 😃&nbsp; [atari-breakout](https://github.com/Benjamin-Davies/atari-breakout)
-
-*2 commits in the last month*
-
-An Atari Breakout game written in typescript
-
-
 ### 🚗&nbsp; [evolocity-js](https://github.com/Benjamin-Davies/evolocity-js)
 
 *1 commit in the last month*
 
 Raspberry Pi code for Tau-morrow
+
+
+### 😃&nbsp; [atari-breakout](https://github.com/Benjamin-Davies/atari-breakout)
+
+*1 commit in the last month*
+
+An Atari Breakout game written in typescript
 
