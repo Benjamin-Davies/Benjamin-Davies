@@ -19,6 +19,13 @@ The [YouthDev Challenge](https://stemwana.nz/2020-stem-initiative/#page-484:~:te
 The repo for my lovely profile page
 
 
+### 😃&nbsp; [Benjamin-Davies.github.io](https://Benjamin-Davies.github.io/)
+
+*5 commits in the last month*
+
+My website
+
+
 ### 🎓&nbsp; [DBListDemo](https://github.com/Benjamin-Davies/DBListDemo)
 
 *5 commits in the last month*
@@ -31,13 +38,6 @@ A demonstration of how to set up a C# API with our school's PHP/MySql system.
 *4 commits in the last month*
 
 Some small projects that are based on maths concepts
-
-
-### 😃&nbsp; [Benjamin-Davies.github.io](https://Benjamin-Davies.github.io/)
-
-*3 commits in the last month*
-
-My website
 
 
 ### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
