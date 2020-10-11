@@ -53,10 +53,3 @@ My website
 
 Raspberry Pi code for Tau-morrow
 
-
-### 😃&nbsp; [atari-breakout](https://github.com/Benjamin-Davies/atari-breakout)
-
-*1 commit in the last month*
-
-An Atari Breakout game written in typescript
-
