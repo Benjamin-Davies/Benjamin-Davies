@@ -33,18 +33,18 @@ A demonstration of how to set up a C# API with our school's PHP/MySql system.
 Some small projects that are based on maths concepts
 
 
+### 😃&nbsp; [Benjamin-Davies.github.io](https://Benjamin-Davies.github.io/)
+
+*3 commits in the last month*
+
+My website
+
+
 ### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
 
 *3 commits in the last month*
 
 Config files for when I use Linux
-
-
-### 😃&nbsp; [Benjamin-Davies.github.io](https://Benjamin-Davies.github.io/)
-
-*2 commits in the last month*
-
-My website
 
 
 ### 🚗&nbsp; [evolocity-js](https://github.com/Benjamin-Davies/evolocity-js)
