@@ -21,7 +21,7 @@ The repo for my lovely profile page
 
 ### 😃&nbsp; [Benjamin-Davies.github.io](https://Benjamin-Davies.github.io/)
 
-*11 commits in the last month*
+*12 commits in the last month*
 
 My website
 
@@ -35,21 +35,7 @@ A demonstration of how to set up a C# API with our school's PHP/MySql system.
 
 ### 😃&nbsp; [math](https://benjamin-davies.github.io/math/)
 
-*4 commits in the last month*
-
-Some small projects that are based on maths concepts
-
-
-### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
-
 *3 commits in the last month*
 
-Config files for when I use Linux
-
-
-### 🚗&nbsp; [evolocity-js](https://github.com/Benjamin-Davies/evolocity-js)
-
-*1 commit in the last month*
-
-Raspberry Pi code for Tau-morrow
+Some small projects that are based on maths concepts
 
