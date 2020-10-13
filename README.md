@@ -5,7 +5,9 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 ## Here's what I've been working on ✏️
 
 
-### 🤵&nbsp; [stemwana-youthdev/Explorer-Trail-2020](https://stemexplorertrail.nz)
+### 🤵&nbsp; [stemwana-youthdev/Explorer-Trail-2020](https://github.com/stemwana-youthdev/Explorer-Trail-2020)
+
+[https://stemexplorertrail.nz](https://stemexplorertrail.nz)
 
 *50+ commits in the last month*
 
@@ -19,7 +21,9 @@ The Explorer Trail 2020 is a STEM Wana Trust initiative running in Tauranga from
 The repo for my lovely profile page
 
 
-### 😃&nbsp; [Benjamin-Davies.github.io](https://Benjamin-Davies.github.io/)
+### 😃&nbsp; [Benjamin-Davies.github.io](https://github.com/Benjamin-Davies/Benjamin-Davies.github.io)
+
+[https://Benjamin-Davies.github.io/](https://Benjamin-Davies.github.io/)
 
 *13 commits in the last month*
 
@@ -33,7 +37,9 @@ My website
 A demonstration of how to set up a C# API with our school's PHP/MySql system.
 
 
-### 😃&nbsp; [math](https://benjamin-davies.github.io/math/)
+### 😃&nbsp; [math](https://github.com/Benjamin-Davies/math)
+
+[https://benjamin-davies.github.io/math/](https://benjamin-davies.github.io/math/)
 
 *3 commits in the last month*
 
