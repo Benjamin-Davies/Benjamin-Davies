@@ -21,7 +21,7 @@ The repo for my lovely profile page
 
 ### 😃&nbsp; [Benjamin-Davies.github.io](https://Benjamin-Davies.github.io/)
 
-*12 commits in the last month*
+*13 commits in the last month*
 
 My website
 
