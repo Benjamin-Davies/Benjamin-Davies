@@ -9,7 +9,7 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 
 *50+ commits in the last month*
 
-The [YouthDev Challenge](https://stemwana.nz/2020-stem-initiative/#page-484:~:text=YOUTHDEV%20CHALLENGE) is project where youth work with professionals to develop the [STEM Explorer Trail](https://stemexplorertrail.nz/).
+The Explorer Trail 2020 is a STEM Wana Trust initiative running in Tauranga from the start of October to the end of December.
 
 
 ### 😃&nbsp; [Benjamin-Davies](https://github.com/Benjamin-Davies/Benjamin-Davies)
