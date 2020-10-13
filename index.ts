@@ -66,8 +66,10 @@ async function getRepos(user: User): Promise<string> {
       }
 
       return `
-### ${emoji}&nbsp; [${ownRepo ? data.name : data.full_name}](${data.homepage || data.html_url})
-
+### ${emoji}&nbsp; [${ownRepo ? data.name : data.full_name}](${data.html_url})
+${data.homepage && `
+[${data.homepage}](${data.homepage})
+`}
 *${commitCountText} in the last month*
 
 ${data.description ?? ''}
