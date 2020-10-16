@@ -16,7 +16,7 @@ The Explorer Trail 2020 is a STEM Wana Trust initiative running in Tauranga from
 
 ### 😃&nbsp; [Benjamin-Davies](https://github.com/Benjamin-Davies/Benjamin-Davies)
 
-*31 commits in the last month*
+*32 commits in the last month*
 
 The repo for my lovely profile page
 
