@@ -5,6 +5,13 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 ## Here's what I've been working on ✏️
 
 
+### 😃&nbsp; [Benjamin-Davies](https://github.com/Benjamin-Davies/Benjamin-Davies)
+
+*47 commits in the last month*
+
+The repo for my lovely profile page
+
+
 ### 🤵&nbsp; [stemwana-youthdev/Explorer-Trail-2020](https://github.com/stemwana-youthdev/Explorer-Trail-2020)
 
 [https://stemexplorertrail.nz](https://stemexplorertrail.nz)
@@ -12,13 +19,6 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 *46 commits in the last month*
 
 The Explorer Trail 2020 is a STEM Wana Trust initiative running in Tauranga from the start of October to the end of December.
-
-
-### 😃&nbsp; [Benjamin-Davies](https://github.com/Benjamin-Davies/Benjamin-Davies)
-
-*46 commits in the last month*
-
-The repo for my lovely profile page
 
 
 ### 😃&nbsp; [Benjamin-Davies.github.io](https://github.com/Benjamin-Davies/Benjamin-Davies.github.io)
