@@ -16,7 +16,7 @@ The repo for my lovely profile page
 
 [https://stemexplorertrail.nz](https://stemexplorertrail.nz)
 
-*31 commits in the last month*
+*29 commits in the last month*
 
 The Explorer Trail 2020 is a STEM Wana Trust initiative running in Tauranga from the start of October to the end of December.
 
@@ -37,4 +37,13 @@ My website
 *3 commits in the last month*
 
 Some small projects that are based on maths concepts
+
+
+### 😃&nbsp; [graphiti](https://github.com/Benjamin-Davies/graphiti)
+
+[https://benjamin-davies.github.io/graphiti/](https://benjamin-davies.github.io/graphiti/)
+
+*1 commit in the last month*
+
+
 
