@@ -25,7 +25,7 @@ My website
 
 [https://stemexplorertrail.nz](https://stemexplorertrail.nz)
 
-*10 commits in the last month*
+*7 commits in the last month*
 
 The Explorer Trail 2020 is a STEM Wana Trust initiative running in Tauranga from the start of October to the end of December.
 
