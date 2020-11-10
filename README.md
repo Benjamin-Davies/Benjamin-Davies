@@ -21,6 +21,13 @@ The repo for my lovely profile page
 My website
 
 
+### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
+
+*4 commits in the last month*
+
+Config files for when I use Linux
+
+
 ### 🤵&nbsp; [stemwana-youthdev/Explorer-Trail-2020](https://github.com/stemwana-youthdev/Explorer-Trail-2020)
 
 [https://stemexplorertrail.nz](https://stemexplorertrail.nz)
