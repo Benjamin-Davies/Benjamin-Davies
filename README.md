@@ -19,15 +19,6 @@ The repo for my lovely profile page
 Config files for when I use Linux
 
 
-### 😃&nbsp; [Benjamin-Davies.github.io](https://github.com/Benjamin-Davies/Benjamin-Davies.github.io)
-
-[https://Benjamin-Davies.github.io/](https://Benjamin-Davies.github.io/)
-
-*3 commits in the last month*
-
-My website
-
-
 ### 🤵&nbsp; [stemwana-youthdev/Explorer-Trail-2020](https://github.com/stemwana-youthdev/Explorer-Trail-2020)
 
 [https://stemexplorertrail.nz](https://stemexplorertrail.nz)
@@ -35,6 +26,15 @@ My website
 *2 commits in the last month*
 
 The Explorer Trail 2020 is a STEM Wana Trust initiative running in Tauranga from the start of October to the end of December.
+
+
+### 😃&nbsp; [Benjamin-Davies.github.io](https://github.com/Benjamin-Davies/Benjamin-Davies.github.io)
+
+[https://Benjamin-Davies.github.io/](https://Benjamin-Davies.github.io/)
+
+*2 commits in the last month*
+
+My website
 
 
 ### 😃&nbsp; [js-games](https://github.com/Benjamin-Davies/js-games)
