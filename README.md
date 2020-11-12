@@ -12,20 +12,20 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 The repo for my lovely profile page
 
 
-### 😃&nbsp; [Benjamin-Davies.github.io](https://github.com/Benjamin-Davies/Benjamin-Davies.github.io)
-
-[https://Benjamin-Davies.github.io/](https://Benjamin-Davies.github.io/)
-
-*8 commits in the last month*
-
-My website
-
-
 ### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
 
 *4 commits in the last month*
 
 Config files for when I use Linux
+
+
+### 😃&nbsp; [Benjamin-Davies.github.io](https://github.com/Benjamin-Davies/Benjamin-Davies.github.io)
+
+[https://Benjamin-Davies.github.io/](https://Benjamin-Davies.github.io/)
+
+*3 commits in the last month*
+
+My website
 
 
 ### 🤵&nbsp; [stemwana-youthdev/Explorer-Trail-2020](https://github.com/stemwana-youthdev/Explorer-Trail-2020)
