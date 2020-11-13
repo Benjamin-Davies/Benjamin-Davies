@@ -45,12 +45,3 @@ A bunch of games written in javascript
 
 
 
-
-### 😃&nbsp; [Benjamin-Davies.github.io](https://github.com/Benjamin-Davies/Benjamin-Davies.github.io)
-
-[https://Benjamin-Davies.github.io/](https://Benjamin-Davies.github.io/)
-
-*1 commit in the last month*
-
-My website
-
