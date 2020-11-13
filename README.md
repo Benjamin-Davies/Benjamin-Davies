@@ -28,15 +28,6 @@ Config files for when I use Linux
 The Explorer Trail 2020 is a STEM Wana Trust initiative running in Tauranga from the start of October to the end of December.
 
 
-### 😃&nbsp; [Benjamin-Davies.github.io](https://github.com/Benjamin-Davies/Benjamin-Davies.github.io)
-
-[https://Benjamin-Davies.github.io/](https://Benjamin-Davies.github.io/)
-
-*2 commits in the last month*
-
-My website
-
-
 ### 😃&nbsp; [js-games](https://github.com/Benjamin-Davies/js-games)
 
 [https://benjamin-davies.github.io/js-games/](https://benjamin-davies.github.io/js-games/)
@@ -53,4 +44,13 @@ A bunch of games written in javascript
 *1 commit in the last month*
 
 
+
+
+### 😃&nbsp; [Benjamin-Davies.github.io](https://github.com/Benjamin-Davies/Benjamin-Davies.github.io)
+
+[https://Benjamin-Davies.github.io/](https://Benjamin-Davies.github.io/)
+
+*1 commit in the last month*
+
+My website
 
