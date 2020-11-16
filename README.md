@@ -14,7 +14,7 @@ The repo for my lovely profile page
 
 ### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
 
-*12 commits in the last month*
+*15 commits in the last month*
 
 Config files for when I use Linux
 
