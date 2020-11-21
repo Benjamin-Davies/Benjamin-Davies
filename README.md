@@ -7,7 +7,7 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 
 ### 😃&nbsp; [Benjamin-Davies](https://github.com/Benjamin-Davies/Benjamin-Davies)
 
-*48 commits in the last month*
+*47 commits in the last month*
 
 The repo for my lovely profile page
 
@@ -17,6 +17,15 @@ The repo for my lovely profile page
 *20 commits in the last month*
 
 Config files for when I use Linux
+
+
+### 😃&nbsp; [molecules](https://github.com/Benjamin-Davies/molecules)
+
+[https://benjamin-davies.github.io/molecules/](https://benjamin-davies.github.io/molecules/)
+
+*16 commits in the last month*
+
+Floating covalent molecules
 
 
 ### 🤵&nbsp; [stemwana-youthdev/Explorer-Trail-2020](https://github.com/stemwana-youthdev/Explorer-Trail-2020)
