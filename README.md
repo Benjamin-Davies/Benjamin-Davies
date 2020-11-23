@@ -45,12 +45,3 @@ The Explorer Trail 2020 is a STEM Wana Trust initiative running in Tauranga from
 
 A bunch of games written in javascript
 
-
-### 😃&nbsp; [graphiti](https://github.com/Benjamin-Davies/graphiti)
-
-[https://benjamin-davies.github.io/graphiti/](https://benjamin-davies.github.io/graphiti/)
-
-*1 commit in the last month*
-
-
-
