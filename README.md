@@ -23,7 +23,7 @@ Config files for when I use Linux
 
 [https://benjamin-davies.github.io/molecules/](https://benjamin-davies.github.io/molecules/)
 
-*18 commits in the last month*
+*20 commits in the last month*
 
 Floating covalent molecules
 
