@@ -16,7 +16,7 @@ The repo for my lovely profile page
 
 [https://benjamin-davies.github.io/molecules/](https://benjamin-davies.github.io/molecules/)
 
-*22 commits in the last month*
+*26 commits in the last month*
 
 Floating covalent molecules
 
