@@ -36,12 +36,3 @@ Floating covalent molecules
 
 The Explorer Trail 2020 is a STEM Wana Trust initiative running in Tauranga from the start of October to the end of December.
 
-
-### 😃&nbsp; [js-games](https://github.com/Benjamin-Davies/js-games)
-
-[https://benjamin-davies.github.io/js-games/](https://benjamin-davies.github.io/js-games/)
-
-*1 commit in the last month*
-
-A bunch of games written in javascript
-
