@@ -27,12 +27,3 @@ Config files for when I use Linux
 
 Floating covalent molecules
 
-
-### 🤵&nbsp; [stemwana-youthdev/Explorer-Trail-2020](https://github.com/stemwana-youthdev/Explorer-Trail-2020)
-
-[https://stemexplorertrail.nz](https://stemexplorertrail.nz)
-
-*2 commits in the last month*
-
-The Explorer Trail 2020 is a STEM Wana Trust initiative running in Tauranga from the start of October to the end of December.
-
