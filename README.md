@@ -14,7 +14,7 @@ The repo for my lovely profile page
 
 ### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
 
-*26 commits in the last month*
+*27 commits in the last month*
 
 Config files for when I use Linux
 
@@ -26,4 +26,11 @@ Config files for when I use Linux
 *26 commits in the last month*
 
 Floating covalent molecules
+
+
+### 😃&nbsp; [gol](https://github.com/Benjamin-Davies/gol)
+null
+*11 commits in the last month*
+
+Game of Life written in C
 
