@@ -12,13 +12,6 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 The repo for my lovely profile page
 
 
-### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
-
-*27 commits in the last month*
-
-Config files for when I use Linux
-
-
 ### 😃&nbsp; [molecules](https://github.com/Benjamin-Davies/molecules)
 
 [https://benjamin-davies.github.io/molecules/](https://benjamin-davies.github.io/molecules/)
@@ -26,6 +19,13 @@ Config files for when I use Linux
 *26 commits in the last month*
 
 Floating covalent molecules
+
+
+### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
+
+*23 commits in the last month*
+
+Config files for when I use Linux
 
 
 ### 😃&nbsp; [gol](https://github.com/Benjamin-Davies/gol)
