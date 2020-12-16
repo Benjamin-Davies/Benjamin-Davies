@@ -23,7 +23,7 @@ Floating covalent molecules
 
 ### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
 
-*15 commits in the last month*
+*12 commits in the last month*
 
 Config files for when I use Linux
 
