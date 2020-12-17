@@ -21,16 +21,23 @@ The repo for my lovely profile page
 Floating covalent molecules
 
 
-### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
-
-*12 commits in the last month*
-
-Config files for when I use Linux
-
-
 ### 😃&nbsp; [gol](https://github.com/Benjamin-Davies/gol)
 null
 *11 commits in the last month*
 
 Game of Life written in C
+
+
+### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
+
+*10 commits in the last month*
+
+Config files for when I use Linux
+
+
+### 😃&nbsp; [golrunsdl](https://github.com/Benjamin-Davies/golrunsdl)
+null
+*1 commit in the last month*
+
+
 
