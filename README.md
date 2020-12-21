@@ -12,20 +12,20 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 The repo for my lovely profile page
 
 
-### 😃&nbsp; [molecules](https://github.com/Benjamin-Davies/molecules)
-
-[https://benjamin-davies.github.io/molecules/](https://benjamin-davies.github.io/molecules/)
-
-*26 commits in the last month*
-
-Floating covalent molecules
-
-
 ### 😃&nbsp; [gol](https://github.com/Benjamin-Davies/gol)
 null
 *11 commits in the last month*
 
 Game of Life written in C
+
+
+### 😃&nbsp; [molecules](https://github.com/Benjamin-Davies/molecules)
+
+[https://benjamin-davies.github.io/molecules/](https://benjamin-davies.github.io/molecules/)
+
+*10 commits in the last month*
+
+Floating covalent molecules
 
 
 ### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
