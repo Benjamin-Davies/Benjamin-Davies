@@ -23,7 +23,7 @@ Game of Life written in C
 
 [https://benjamin-davies.github.io/molecules/](https://benjamin-davies.github.io/molecules/)
 
-*10 commits in the last month*
+*8 commits in the last month*
 
 Floating covalent molecules
 
