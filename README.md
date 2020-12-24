@@ -19,20 +19,20 @@ null
 Game of Life written in C
 
 
-### 😃&nbsp; [molecules](https://github.com/Benjamin-Davies/molecules)
-
-[https://benjamin-davies.github.io/molecules/](https://benjamin-davies.github.io/molecules/)
-
-*8 commits in the last month*
-
-Floating covalent molecules
-
-
 ### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
 
 *6 commits in the last month*
 
 Config files for when I use Linux
+
+
+### 😃&nbsp; [molecules](https://github.com/Benjamin-Davies/molecules)
+
+[https://benjamin-davies.github.io/molecules/](https://benjamin-davies.github.io/molecules/)
+
+*5 commits in the last month*
+
+Floating covalent molecules
 
 
 ### 😃&nbsp; [golrunsdl](https://github.com/Benjamin-Davies/golrunsdl)
