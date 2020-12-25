@@ -26,15 +26,6 @@ Game of Life written in C
 Config files for when I use Linux
 
 
-### 😃&nbsp; [molecules](https://github.com/Benjamin-Davies/molecules)
-
-[https://benjamin-davies.github.io/molecules/](https://benjamin-davies.github.io/molecules/)
-
-*4 commits in the last month*
-
-Floating covalent molecules
-
-
 ### 😃&nbsp; [golrunsdl](https://github.com/Benjamin-Davies/golrunsdl)
 null
 *1 commit in the last month*
