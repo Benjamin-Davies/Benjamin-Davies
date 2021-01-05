@@ -7,14 +7,14 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 
 ### 😃&nbsp; [Benjamin-Davies](https://github.com/Benjamin-Davies/Benjamin-Davies)
 
-*50+ commits in the last month*
+*49 commits in the last month*
 
 The repo for my lovely profile page
 
 
 ### 😃&nbsp; [gol](https://github.com/Benjamin-Davies/gol)
 null
-*11 commits in the last month*
+*8 commits in the last month*
 
 Game of Life written in C
 
