@@ -12,20 +12,6 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 The repo for my lovely profile page
 
 
-### 😃&nbsp; [gol](https://github.com/Benjamin-Davies/gol)
-null
-*6 commits in the last month*
-
-Game of Life written in C
-
-
-### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
-
-*1 commit in the last month*
-
-Config files for when I use Linux
-
-
 ### 😃&nbsp; [golrunsdl](https://github.com/Benjamin-Davies/golrunsdl)
 null
 *1 commit in the last month*
