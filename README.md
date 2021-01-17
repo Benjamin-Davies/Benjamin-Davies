@@ -18,10 +18,3 @@ The repo for my lovely profile page
 
 Config files for when I use Linux
 
-
-### 😃&nbsp; [golrunsdl](https://github.com/Benjamin-Davies/golrunsdl)
-null
-*1 commit in the last month*
-
-
-
