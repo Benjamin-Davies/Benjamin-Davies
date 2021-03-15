@@ -32,7 +32,7 @@ The repo for my lovely profile page
 
 ### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
 
-*6 commits in the last month*
+*3 commits in the last month*
 
 Config files for when I use Linux
 
