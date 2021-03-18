@@ -7,7 +7,7 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 
 ### 😃&nbsp; [Benjamin-Davies](https://github.com/Benjamin-Davies/Benjamin-Davies)
 
-*49 commits in the last month*
+*48 commits in the last month*
 
 The repo for my lovely profile page
 
@@ -35,4 +35,13 @@ The repo for my lovely profile page
 *2 commits in the last month*
 
 Config files for when I use Linux
+
+
+### 😃&nbsp; [Benjamin-Davies.github.io](https://github.com/Benjamin-Davies/Benjamin-Davies.github.io)
+
+[https://Benjamin-Davies.github.io/](https://Benjamin-Davies.github.io/)
+
+*1 commit in the last month*
+
+My website
 
