@@ -7,7 +7,7 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 
 ### 😃&nbsp; [Benjamin-Davies](https://github.com/Benjamin-Davies/Benjamin-Davies)
 
-*49 commits in the last month*
+*50+ commits in the last month*
 
 The repo for my lovely profile page
 
@@ -25,7 +25,7 @@ The repo for my lovely profile page
 
 [https://kamar-calendar.herokuapp.com](https://kamar-calendar.herokuapp.com)
 
-*8 commits in the last month*
+*7 commits in the last month*
 
 
 
