@@ -16,7 +16,7 @@ The repo for my lovely profile page
 
 [https://php.mmc.school.nz/201COS/benjamindavies/maquo/](https://php.mmc.school.nz/201COS/benjamindavies/maquo/)
 
-*11 commits in the last month*
+*6 commits in the last month*
 
 …the site for Ma Quizzes
 
