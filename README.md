@@ -12,20 +12,11 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 The repo for my lovely profile page
 
 
-### 😃&nbsp; [maquo](https://github.com/Benjamin-Davies/maquo)
-
-[https://php.mmc.school.nz/201COS/benjamindavies/maquo/](https://php.mmc.school.nz/201COS/benjamindavies/maquo/)
-
-*6 commits in the last month*
-
-…the site for Ma Quizzes
-
-
 ### 😃&nbsp; [KamarCalendar](https://github.com/Benjamin-Davies/KamarCalendar)
 
 [https://kamar-calendar.herokuapp.com](https://kamar-calendar.herokuapp.com)
 
-*5 commits in the last month*
+*3 commits in the last month*
 
 
 
