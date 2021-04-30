@@ -11,10 +11,3 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 
 The repo for my lovely profile page
 
-
-### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
-
-*2 commits in the last month*
-
-Config files for when I use Linux
-
