@@ -5,6 +5,7 @@ import { concatAsyncIterables } from './util';
 const template = 'template.md';
 const destFile = process.env.DEST_FILE ?? 'preview.md';
 const username = 'Benjamin-Davies';
+const users = [username, 'Kethku'];
 const groups = ['stemwana-youthdev', 'DefinitelyTyped'];
 const maxCommits = 50;
 
@@ -14,13 +15,15 @@ async function getBio(user: User): Promise<string> {
   return userData.bio.replace(/\s\s/g, ' &nbsp;');
 }
 
-async function getRepos(user: User): Promise<string> {
-  const userRepos = user.repos({ sort: 'updated', per_page: 10 });
+async function getRepos(): Promise<string> {
+  const userRepos = users.map((user) =>
+    github.user({ user }).repos({ sort: 'updated', per_page: 10 })
+  );
   const groupRepos = groups.map((org) =>
     github.org({ org }).repos({ sort: 'updated', per_page: 5 })
   );
   let repos: { data: RepoData; commitCount: number }[] = [];
-  for await (const repo of concatAsyncIterables(...groupRepos, userRepos)) {
+  for await (const repo of concatAsyncIterables(...groupRepos, ...userRepos)) {
     const data = await repo.data();
 
     const since = new Date();
@@ -35,53 +38,62 @@ async function getRepos(user: User): Promise<string> {
   repos = repos.filter((repo) => repo.commitCount >= 1);
   repos.sort((a, b) => b.commitCount - a.commitCount);
 
-  return repos
-    .map(({ data, commitCount }) => {
-      let commitCountText: string;
-      if (commitCount === 1) {
-        commitCountText = '1 commit';
-      } else if (commitCount === maxCommits) {
-        commitCountText = `${commitCount}+ commits`;
-      } else {
-        commitCountText = `${commitCount} commits`;
-      }
+  return (
+    repos
+      .map(({ data, commitCount }) => {
+        let commitCountText: string;
+        if (commitCount === 1) {
+          commitCountText = '1 commit';
+        } else if (commitCount === maxCommits) {
+          commitCountText = `${commitCount}+ commits`;
+        } else {
+          commitCountText = `${commitCount} commits`;
+        }
 
-      const ownRepo = data.owner.login === username;
+        const ownRepo = data.owner.login === username;
 
-      let emoji = '😃';
-      if (!ownRepo) {
-        emoji = '🤵';
-      }
-      if (data.fork) {
-        emoji = '🍴';
-      }
-      if (data.topics.includes('school-project')) {
-        emoji = '🎓';
-      }
-      if (data.topics.includes('linux')) {
-        emoji = '🐧';
-      }
-      if (data.topics.includes('car')) {
-        emoji = '🚗';
-      }
+        let emoji = '😃';
+        if (!ownRepo) {
+          emoji = '🤵';
+        }
+        if (data.fork) {
+          emoji = '🍴';
+        }
+        if (data.topics.includes('school-project')) {
+          emoji = '🎓';
+        }
+        if (data.topics.includes('linux')) {
+          emoji = '🐧';
+        }
+        if (data.topics.includes('car')) {
+          emoji = '🚗';
+        }
 
-      return `
+        return `
 ### ${emoji}&nbsp; [${ownRepo ? data.name : data.full_name}](${data.html_url})
-${data.homepage && `
+${
+  data.homepage &&
+  `
 [${data.homepage}](${data.homepage})
-`}
+`
+}
 *${commitCountText} in the last month*
 
 ${data.description ?? ''}
 `;
-    })
-    .join('\n') || 'I haven\'t been up to much this month. 😞';
+      })
+      .join('\n') || "I haven't been up to much this month. 😞"
+  );
 }
 
-function replaceSections(sections: { [_: string]: string }, input: string): string {
+function replaceSections(
+  sections: { [_: string]: string },
+  input: string
+): string {
   return input.replace(
     /<!-- PLACEHOLDER:(\w+) -->/g,
-    (_, name: string) => sections[name] ?? `<ERROR: section '${name}' not found>`
+    (_, name: string) =>
+      sections[name] ?? `<ERROR: section '${name}' not found>`
   );
 }
 
@@ -89,7 +101,7 @@ async function run() {
   const user = github.user({ user: username });
   const sections = {
     BIO: await getBio(user),
-    REPOS: await getRepos(user),
+    REPOS: await getRepos(),
   };
 
   // Keeping everything in memory should be fine
@@ -99,4 +111,7 @@ async function run() {
   await fs.writeFile(destFile, output);
 }
 
-run();
+run().catch((err) => {
+  console.error(err);
+});
+
