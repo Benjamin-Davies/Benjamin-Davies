@@ -12,6 +12,13 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 The repo for my lovely profile page
 
 
+### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
+
+*6 commits in the last month*
+
+Config files for when I use Linux
+
+
 ### 🤵&nbsp; [Kethku/neovide](https://github.com/Kethku/neovide)
 
 *4 commits in the last month*
