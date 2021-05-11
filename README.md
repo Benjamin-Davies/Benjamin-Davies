@@ -25,3 +25,12 @@ Config files for when I use Linux
 
 No Nonsense Neovim Client in Rust
 
+
+### 😃&nbsp; [KamarCalendar](https://github.com/Benjamin-Davies/KamarCalendar)
+
+[https://kamar-calendar.herokuapp.com](https://kamar-calendar.herokuapp.com)
+
+*1 commit in the last month*
+
+
+
