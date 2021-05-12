@@ -19,18 +19,18 @@ The repo for my lovely profile page
 Config files for when I use Linux
 
 
+### 😃&nbsp; [KamarCalendar](https://github.com/Benjamin-Davies/KamarCalendar)
+
+[https://kamar-calendar.herokuapp.com](https://kamar-calendar.herokuapp.com)
+
+*5 commits in the last month*
+
+
+
+
 ### 🤵&nbsp; [Kethku/neovide](https://github.com/Kethku/neovide)
 
 *4 commits in the last month*
 
 No Nonsense Neovim Client in Rust
-
-
-### 😃&nbsp; [KamarCalendar](https://github.com/Benjamin-Davies/KamarCalendar)
-
-[https://kamar-calendar.herokuapp.com](https://kamar-calendar.herokuapp.com)
-
-*1 commit in the last month*
-
-
 
