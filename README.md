@@ -30,7 +30,7 @@ Config files for when I use Linux
 
 ### 🤵&nbsp; [Kethku/neovide](https://github.com/Kethku/neovide)
 
-*3 commits in the last month*
+*2 commits in the last month*
 
 No Nonsense Neovim Client in Rust
 
