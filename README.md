@@ -28,9 +28,16 @@ Config files for when I use Linux
 
 
 
+### 😃&nbsp; [pong](https://github.com/Benjamin-Davies/pong)
+null
+*2 commits in the last month*
+
+
+
+
 ### 🤵&nbsp; [Kethku/neovide](https://github.com/Kethku/neovide)
 
-*2 commits in the last month*
+*1 commit in the last month*
 
 No Nonsense Neovim Client in Rust
 
