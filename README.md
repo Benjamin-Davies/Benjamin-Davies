@@ -35,6 +35,24 @@ null
 
 
 
+### 😃&nbsp; [molecules](https://github.com/Benjamin-Davies/molecules)
+
+[https://benjamin-davies.github.io/molecules/](https://benjamin-davies.github.io/molecules/)
+
+*1 commit in the last month*
+
+Floating covalent molecules
+
+
+### 😃&nbsp; [math](https://github.com/Benjamin-Davies/math)
+
+[https://benjamin-davies.github.io/math/](https://benjamin-davies.github.io/math/)
+
+*1 commit in the last month*
+
+Some small projects that are based on maths concepts
+
+
 ### 🤵&nbsp; [Kethku/neovide](https://github.com/Kethku/neovide)
 
 *1 commit in the last month*
