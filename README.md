@@ -52,10 +52,3 @@ Floating covalent molecules
 
 Some small projects that are based on maths concepts
 
-
-### 🤵&nbsp; [Kethku/neovide](https://github.com/Kethku/neovide)
-
-*1 commit in the last month*
-
-No Nonsense Neovim Client in Rust
-
