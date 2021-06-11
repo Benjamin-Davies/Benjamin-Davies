@@ -16,7 +16,7 @@ The repo for my lovely profile page
 
 [https://kamar-calendar.herokuapp.com](https://kamar-calendar.herokuapp.com)
 
-*5 commits in the last month*
+*4 commits in the last month*
 
 
 
