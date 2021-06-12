@@ -12,15 +12,6 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 The repo for my lovely profile page
 
 
-### 😃&nbsp; [KamarCalendar](https://github.com/Benjamin-Davies/KamarCalendar)
-
-[https://kamar-calendar.herokuapp.com](https://kamar-calendar.herokuapp.com)
-
-*4 commits in the last month*
-
-
-
-
 ### 😃&nbsp; [pong](https://github.com/Benjamin-Davies/pong)
 null
 *2 commits in the last month*
