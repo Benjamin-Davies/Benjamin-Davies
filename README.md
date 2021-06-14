@@ -12,13 +12,6 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 The repo for my lovely profile page
 
 
-### 😃&nbsp; [pong](https://github.com/Benjamin-Davies/pong)
-null
-*2 commits in the last month*
-
-
-
-
 ### 😃&nbsp; [math](https://github.com/Benjamin-Davies/math)
 
 [https://benjamin-davies.github.io/math/](https://benjamin-davies.github.io/math/)
