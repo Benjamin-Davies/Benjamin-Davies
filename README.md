@@ -7,7 +7,7 @@ My name is Benjamin Davies, but you can call me Ben. I am a New Zealander 🥝 &
 
 ### 😃&nbsp; [Benjamin-Davies](https://github.com/Benjamin-Davies/Benjamin-Davies)
 
-*45 commits in the last month*
+*44 commits in the last month*
 
 The repo for my lovely profile page
 
@@ -25,9 +25,18 @@ Some small projects that are based on maths concepts
 
 [https://benjamin-davies.github.io/molecules/](https://benjamin-davies.github.io/molecules/)
 
-*1 commit in the last month*
+*4 commits in the last month*
 
 Floating covalent molecules
+
+
+### 😃&nbsp; [graphiti](https://github.com/Benjamin-Davies/graphiti)
+
+[https://benjamin-davies.github.io/graphiti/](https://benjamin-davies.github.io/graphiti/)
+
+*4 commits in the last month*
+
+
 
 
 ### 🚗&nbsp; [evolocity-js](https://github.com/Benjamin-Davies/evolocity-js)
