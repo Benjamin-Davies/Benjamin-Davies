@@ -23,7 +23,7 @@ Some small projects that are based on maths concepts
 
 ### 🐧&nbsp; [dotfiles](https://github.com/Benjamin-Davies/dotfiles)
 
-*5 commits in the last month*
+*4 commits in the last month*
 
 Config files for when I use Linux
 
