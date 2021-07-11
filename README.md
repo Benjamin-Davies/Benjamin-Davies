@@ -28,15 +28,6 @@ Some small projects that are based on maths concepts
 Config files for when I use Linux
 
 
-### 😃&nbsp; [molecules](https://github.com/Benjamin-Davies/molecules)
-
-[https://benjamin-davies.github.io/molecules/](https://benjamin-davies.github.io/molecules/)
-
-*4 commits in the last month*
-
-Floating covalent molecules
-
-
 ### 😃&nbsp; [graphiti](https://github.com/Benjamin-Davies/graphiti)
 
 [https://benjamin-davies.github.io/graphiti/](https://benjamin-davies.github.io/graphiti/)
@@ -44,6 +35,15 @@ Floating covalent molecules
 *4 commits in the last month*
 
 
+
+
+### 😃&nbsp; [molecules](https://github.com/Benjamin-Davies/molecules)
+
+[https://benjamin-davies.github.io/molecules/](https://benjamin-davies.github.io/molecules/)
+
+*3 commits in the last month*
+
+Floating covalent molecules
 
 
 ### 🚗&nbsp; [evolocity-js](https://github.com/Benjamin-Davies/evolocity-js)
